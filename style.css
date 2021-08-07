@@ -72,15 +72,12 @@ a{
     border: none;
     border-radius: 0 5px 5px 0;
     margin-left: -5px;
-    
-}
-
-.form button{
     background: #a09038;
     color: #464646;
     cursor: pointer;
-
+    
 }
+
 
 .form button:hover{
     background: #9c551b;
