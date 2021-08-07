@@ -87,14 +87,14 @@ a{
 #arrow{
     font-size: 35px;
     cursor: pointer;
-    animation: blink 1s steps(5, start) infinite;
+    /* animation: blink 1s steps(5, start) infinite; */
 }
 
-@keyframes blink{
+/* @keyframes blink{
     to{
         visibility: hidden;
     }
-}
+} */
 
 #animation{
     transition: 300ms;
