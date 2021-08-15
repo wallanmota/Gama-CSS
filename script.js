@@ -1,6 +1,6 @@
 function displayAbout(){
-    var arrow = document.getElementById('animation');
+    let arrow = document.getElementById('animation');
     arrow.classList.toggle('rotate')
-    var display = document.getElementById('about');
+    let display = document.getElementById('about');
     display.classList.toggle('active')
 }
